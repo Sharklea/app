@@ -1,5 +1,5 @@
 # Sharklea 
-本页不定期更新，随时获取有关Sharklite的信息资讯！<br>
+本页不定期更新，随时获取有关Sharklea的信息资讯！<br>
 #    Sharklea 下载地址
 ### [点此跳转]( https://www.pgyer.com/sharklite)
 
